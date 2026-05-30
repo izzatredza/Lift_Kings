@@ -24,7 +24,6 @@ Lift King provides a seamless interface for managing a specialized retail store.
 
     Database Connectivity: Leverages relational tables in MS Access to safely store customer records, item details, and transaction history.
 
-    User Authentication: Includes a secure login portal to restrict access to store administrators and staff.
 
 💾 How to Run the App
 
