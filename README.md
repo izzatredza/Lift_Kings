@@ -41,13 +41,12 @@ To allow *Lift King* to communicate with the MS Access database layer without th
    * Open **Command Prompt as Administrator**.
    * Run the following command to force the installation:
    
-```cmd
-   C:\accessdatabaseengine.exe /quiet
-   
+  cmd  `C:\accessdatabaseengine.exe /quiet`
+
 💾 How to Run the App
 
-    For Developers: Clone the repository and open the .sln (Solution) file directly in Visual Studio. Ensure your machine has the proper Microsoft Access Database Engine drivers installed to facilitate the OLEDB connection.
+For Developers: Clone the repository and open the .sln (Solution) file directly in Visual Studio. Ensure your machine has the proper Microsoft Access Database Engine drivers installed to facilitate the OLEDB connection.
 
-    For Users: To test the application directly without setting up an IDE, navigate to the Releases section on the right sidebar to download the standalone executable (.exe).
+For Users: To test the application directly without setting up an IDE, navigate to the Releases section on the right sidebar to download the standalone executable (.exe).
 
 
